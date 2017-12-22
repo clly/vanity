@@ -1,0 +1,7 @@
+# test
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/pkg/test)](https://goreportcard.com/report/github.com/pkg/test)
+[![Build Status](https://travis-ci.org/pkg/test.svg?branch=travis)](https://travis-ci.org/pkg/test)
+[![Godoc](https://godoc.org/github.com/pkg/test?status.svg)](https://godoc.org/github.com/pkg/test)
+[![License](https://img.shields.io/github/license/pkg/test.svg)](LICENSE)
+
