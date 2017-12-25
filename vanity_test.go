@@ -22,6 +22,7 @@ func TestVanityLabels(t *testing.T) {
 	require.NoError(t, err)
 	golden, err := ioutil.ReadFile("hack/vanity.gold")
 	require.Equal(t, golden, buf.Bytes())
+	require.NoError(t, err)
 }
 
 func TestWriteTravis(t *testing.T) {

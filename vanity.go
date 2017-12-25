@@ -1,6 +1,7 @@
-package main
-
+// Author: Connor Kelly
 // +build linux
+
+package main
 
 import (
 	"fmt"
