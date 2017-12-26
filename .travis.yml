@@ -3,8 +3,10 @@ language: go
 go:
   - 1.x
 
-script:
+before_script:
   - go generate
+
+script:
   - go build ./...
   - go vet ./...
   - go test ./...
