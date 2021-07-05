@@ -1,5 +1,4 @@
 // Author: Connor Kelly
-// +build linux
 
 package main
 
